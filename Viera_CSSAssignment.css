@@ -11,3 +11,14 @@ body{
 	font-style:bold;
 }
 
+h1{font-family:Ariel; 
+font-size:400%; 
+text-align: center ;
+text-decoration: overline underline; 
+}
+
+img{
+float: right;
+height:200px;width:300px; }
+
+#next_para{ clear:right; }
