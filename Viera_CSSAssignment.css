@@ -14,8 +14,12 @@ body{
 h1{font-family:Ariel; 
 font-size:400%; 
 text-align: center ;
-text-decoration: overline underline; 
+text-decoration: overline underline; background-color:#D58ADB; 
 }
+
+p{background-color:white;
+color:#A73DAF;}
+{background-color:pink}
 
 img{
 float: right;
